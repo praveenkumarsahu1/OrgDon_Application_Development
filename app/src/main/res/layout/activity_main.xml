@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is our front page-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_marginTop="40dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:src="@drawable/log" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:text="Organ Donation"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="5dp"
+            android:gravity="center"
+            android:paddingHorizontal="10dp"
+            android:text="Giving a second change of life is in your hands."
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/recyclerviewbtn"
+            android:layout_width="360dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="10dp"
+            android:backgroundTint="#F44336"
+            android:text="ORGAN DONORS" />
+
+        <Button
+            android:id="@+id/groupList"
+            android:layout_width="360dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="10dp"
+            android:backgroundTint="#F44336"
+            android:text="Organs" />
+
+        <Button
+            android:id="@+id/frequency"
+            android:layout_width="360dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="10dp"
+            android:backgroundTint="#F44336"
+            android:text="By Blood Group" />
+
+        <Button
+            android:id="@+id/place"
+            android:layout_width="360dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="10dp"
+            android:backgroundTint="#F44336"
+            android:text="HOSPITALS" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginVertical="30dp"
+        android:gravity="center|bottom">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:src="@drawable/download"
+            android:gravity="bottom" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "987289954790",
+    "firebase_url": "https://orgdon-c5c8e-default-rtdb.firebaseio.com",
+    "project_id": "orgdon-c5c8e",
+    "storage_bucket": "orgdon-c5c8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987289954790:android:40c5d0a7a60e65cc6fce27",
+        "android_client_info": {
+          "package_name": "com.example.orgdon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDvnTcQpBhk-gHKE7ypO6TfNroAXNEjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
