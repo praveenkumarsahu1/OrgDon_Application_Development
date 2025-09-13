@@ -41,4 +41,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## 🧑 Author
 Developed by **\[Praveen Kumar Sahu]**
 📧 \[praveenkumarsahu17@gmail.com]
+
 🌐 \[praveenkumarsahu1/www.linkedin.com/in/praveen-kumar-sahu-9090472b8/]
