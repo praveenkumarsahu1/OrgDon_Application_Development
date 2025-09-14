@@ -34,12 +34,7 @@ OrgDon/
 4. Run the app on an **emulator** or **physical device**
 
 ## 📸 Screenshots
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/AB%2B%20Donors.png)
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/Adding%20Records.png)
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/Donor's%20List.png)
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/Home_Screen.png)
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/List%20By%20Blood%20Group.png)
-![image alt](https://github.com/praveenkumarsahu1/OrgDon_Application_Development/blob/9fb0f5e4262c70feed38c59a4d8225f1ec038e93/List%20By%20Organs.png)
+![image alt]()
 
 ## 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
